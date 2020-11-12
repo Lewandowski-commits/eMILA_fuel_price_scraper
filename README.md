@@ -17,4 +17,4 @@ It also uses the following built-in packages that should be included in your Pyt
 - datetime
 - re
 ### Google Colab
-Should you prefer not to run this notebook locally (or you are on the road & are trying to figure out at which gas station you should rather fill up using your mobile device) you can also [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lewandowski-commits/eMILA_fuel_price_scraper/blob/main/emila_fuel_price_scraper.ipynb]. There are no prerequisites as the hosted environment will already have all the packages installed.
+Should you prefer not to run this notebook locally (or you are on the road & are trying to figure out at which gas station you should rather fill up using your mobile device) you can also [Open it in Google Colab](https://colab.research.google.com/github/Lewandowski-commits/eMILA_fuel_price_scraper/blob/main/emila_fuel_price_scraper.ipynb). There are no prerequisites as the hosted environment will already have all the packages installed.
